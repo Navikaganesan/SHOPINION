@@ -193,7 +193,7 @@ template = """
     </main>
 
     <footer class="bg-gray-800 p-4 mt-auto text-center">
-        <p class="text-gray-400 text-sm">© 2025 Shopinion | All Rights Reserved</p>
+        <p class="text-gray-400 text-sm">© 2026 shopinion | All Rights Reserved</p>
     </footer>
 
     <div id="about-modal" class="hidden fixed inset-0 bg-gray-900 bg-opacity-75 flex items-center justify-center z-50">
